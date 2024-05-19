@@ -1,4 +1,5 @@
 <template>
+  <img src="./assets/logo.png">
   <div class="container">
     <h1>TodoList</h1>
     <!--form 태그-->
